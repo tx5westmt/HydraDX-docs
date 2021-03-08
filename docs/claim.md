@@ -13,7 +13,7 @@ Make sure your browser supports polkadot.js extension. This is the only official
 
 ## Claim process
 
-Navigate to https://claim.hydradx.io, the app will check for all the necessary pre-requisites for claiming and should guide you through the process. Yo will be able to claim from metamask or external wallet like MEW that supports signing a message.
+Navigate to https://claim.hydradx.io, the app will check for all the necessary pre-requisites for claiming and should guide you through the process. You will be able to claim from metamask or external wallet like MEW that supports signing a message.
 
 ### 00 Setup
 
