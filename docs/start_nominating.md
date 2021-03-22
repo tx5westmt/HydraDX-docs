@@ -90,7 +90,7 @@ To nominate one or more validators, navigate to:
   <img src={useBaseUrl('/nominator-guide/nominate-validator-1.png')} />
 </div>
 
-After clicking on the *Nominate* button you should see a popup called *nominate validators*. Here you can select on or more validators to nominate from the list of available validators. If you select multiple validators, you can disperse your stake in different proportions to the validators of your choice.
+After clicking on the *Nominate* button you should see a popup called *nominate validators*. Here you can select one or more validators to nominate from the list of available validators. If you select multiple validators, you can disperse your stake in different proportions to the validators of your choice.
 
 To nominate the selected validators, click _Nominate_ and sign the transaction.
 
